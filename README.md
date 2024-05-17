@@ -1,5 +1,5 @@
 # 2C
-repositório da turma 2c
+Repositório da turma 2c
 
 "Este é o repositório do aluno Matheus Vasconcellos Alves"
 Sejam todos bem vindos!
